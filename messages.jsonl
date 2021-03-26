@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Website</title>
+    <style>
+        body {
+            font-family: sans-serif;
+        }
+        h1, h2 {
+            color: DeepSkyBlue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Website</h1>
+
+    <p>distance,4</p>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            // start-up code
+        })
+    </script>
+</body>
+</html>
